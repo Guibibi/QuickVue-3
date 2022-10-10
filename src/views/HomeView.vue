@@ -4,6 +4,6 @@ import Navbar from "../components/Navbar.vue";
 
 <template>
   <main>
-    <h1>Test</h1>
+    <h1>{{ $t('welcome')}}</h1>
   </main>
 </template>
