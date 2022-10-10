@@ -16,5 +16,9 @@ A template to start a Vue 3 project quickly.
 
 ## Installing the project.
 
-> Clone this repository, or use the 
+1. Clone this repository, or use the `Use this template` button on Github.
+
+2. Open your terminal on the project folder, and execute `yarn install`
+
+3. Run `yarn dev` and start editing!
 
