@@ -10,4 +10,11 @@ A template to start a Vue 3 project quickly.
 - [petite-vue-i18n](https://vue-i18n.intlify.dev/) - Vue I18n
 - [Pinia](https://pinia.vuejs.org/) - Vue Store
 
-## File Structure
+## Modifying Layout
+
+> To add or remove layout elements, navigate to the `./src/App.vue` file and add a Named RouterView. Then navigate to `./src/router/index.ts` and modify the components object with the previous changes.
+
+## Installing the project.
+
+> Clone this repository, or use the 
+
